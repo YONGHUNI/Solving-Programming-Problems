@@ -1,0 +1,8 @@
+READ*,N
+I=MOD(N,2)
+IF(I==0)THEN
+PRINT"(A)","SK"
+ELSE
+PRINT"(A)","CY"
+ENDIF
+END
