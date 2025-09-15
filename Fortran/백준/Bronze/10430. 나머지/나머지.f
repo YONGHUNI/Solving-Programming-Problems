@@ -1,0 +1,8 @@
+READ*,I,J,K
+L=MOD(I,K)
+M=MOD(J,K)
+PRINT'(I0)',MOD(I+J,K)
+PRINT'(I0)',MOD((L+M),K)
+PRINT'(I0)',MOD(I*J,K)
+PRINT'(I0)',MOD((L*M),K)
+END
