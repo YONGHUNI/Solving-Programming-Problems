@@ -1,0 +1,8 @@
+READ*,N,M
+WRITE(*, '(I0,".")',ADVANCE='NO')(N-MOD(N,M))/M
+DO I=1,1500
+N=MOD(N,M)*10
+L=N/M
+WRITE(*, '(I0)',ADVANCE='NO')L
+ENDDO
+END
