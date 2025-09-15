@@ -1,0 +1,8 @@
+READ*,N
+I=MOD(N,7)
+IF(I==1.OR.I==3)THEN
+PRINT'(A)',"CY"
+ELSE
+PRINT'(A)',"SK"
+ENDIF
+END
