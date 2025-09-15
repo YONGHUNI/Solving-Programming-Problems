@@ -1,0 +1,3 @@
+READ*,I,J
+PRINT*,2*I+J*6.28318
+END
