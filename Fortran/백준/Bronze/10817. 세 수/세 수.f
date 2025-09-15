@@ -1,0 +1,5 @@
+INTEGER::A(3)
+READ(*,*)(A(I),I=1,3)
+A(MAXLOC(A))=0
+PRINT'(I0)',MAXVAL(A)
+END
