@@ -1,0 +1,4 @@
+INTEGER*8::A,B
+READ*,A,B
+PRINT'(I0)',A*A-B*B
+END
