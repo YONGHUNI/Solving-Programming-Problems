@@ -1,0 +1,3 @@
+READ*,I
+PRINT'(I0)', I-543
+END
