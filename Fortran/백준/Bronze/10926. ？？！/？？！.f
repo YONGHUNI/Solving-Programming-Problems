@@ -1,0 +1,4 @@
+CHARACTER(51)::C
+READ*,C
+PRINT'(A)',TRIM(C)//'??!'
+END
