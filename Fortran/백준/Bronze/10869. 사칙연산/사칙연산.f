@@ -1,0 +1,7 @@
+READ*,I,J
+PRINT'(I0)',I+J
+PRINT'(I0)',I-J
+PRINT'(I0)',I*J
+PRINT'(I0)',I/J
+PRINT'(I0)',MOD(I,J)
+END
