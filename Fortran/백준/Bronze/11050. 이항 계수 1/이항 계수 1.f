@@ -1,0 +1,11 @@
+INTEGER::A(11,11)=1
+READ*,N,K
+N=N+1
+K=K+1
+DO I=3,N
+DO J=2,I-1
+A(I,J)=A(I-1,J)+A(I-1,J-1)
+ENDDO
+ENDDO
+PRINT'(I0)',A(N,K)
+END
