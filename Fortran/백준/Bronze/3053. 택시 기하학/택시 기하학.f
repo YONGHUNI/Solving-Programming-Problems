@@ -1,0 +1,5 @@
+REAL*8::D,O=-1.
+READ*,D
+PRINT*,ACOS(O)*D*D
+PRINT*,D*D*2
+END
