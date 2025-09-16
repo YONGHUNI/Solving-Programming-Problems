@@ -15,3 +15,40 @@ The reason I used Fortran a lot for PS is as follows:
 
 Most of my Fortran code is written with the goal of **code golfing** (writing code as concisely as possible, which may affect readability). As a result, the indentation and structure are often not ideal, which can make the code harder to read.
 
+# Baekjoon Difficulty and Level System
+
+Baekjoon Online Judge categorizes problems into different difficulty levels and users into tiers based on their problem-solving abilities. Here's a breakdown:
+
+### 1. **Problem Difficulty**
+Problems are divided into five difficulty levels based on algorithmic complexity and problem-solving requirements:
+
+- **Bronze**: Basic problems involving simple input/output and mathematical logic.
+- **Silver**: Intermediate problems that require basic algorithms and data structures.
+- **Gold**: Advanced problems involving complex algorithms and optimizations.
+- **Platinum**: Very challenging problems requiring deep knowledge of algorithms and data structures.
+- **Diamond**: Extremely difficult problems, often requiring high-level mathematical and algorithmic expertise.
+
+### 2. **User Level System**
+Users' levels are determined by the number and difficulty of problems they’ve solved. The levels are:
+
+- **Bronze**: Basic skills, solving simple problems.
+- **Silver**: Intermediate skills, understanding basic algorithms and data structures.
+- **Gold**: Advanced skills, solving complex algorithmic problems.
+- **Platinum**: High-level skills, solving optimization and challenging problems.
+- **Diamond**: Elite level, solving very difficult problems with advanced algorithms.
+
+### 3. **Level Up Criteria**
+Your level is determined by:
+- **Number of problems solved**
+- **Difficulty of problems solved**
+- **Accuracy and consistency**
+
+### 4. **Level Up Goals**
+To improve your level:
+- **Bronze**: Focus on basic problem-solving and algorithms.
+- **Silver**: Master intermediate algorithms and data structures.
+- **Gold**: Tackle more complex problems and focus on optimizations.
+- **Platinum**: Solve advanced algorithmic challenges.
+- **Diamond**: Reach the highest level by solving elite problems.
+
+This system helps users systematically improve their problem-solving skills and track their progress.
