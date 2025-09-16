@@ -1,0 +1,5 @@
+READ*,I
+DO L=1,I
+PRINT'(I0)',L
+ENDDO
+END
