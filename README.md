@@ -9,7 +9,7 @@ This is a record of my problem-solving activities on PS (Problem Solving), which
 It all started from a need to retain the knowledge of Fortran that I learned during my double major in Atmospheric Science during university, and also from a desire to understand computer science better while studying Geographic Information Science (GIS).
 
 The reason I used Fortran a lot for PS is as follows:
-- The judging platform (Baekjoon) did not support many of the features available in the standard C++ library, so I had to implement many things on my own.
+- The judging platform (Baekjoon) did not support features like the C++ STL in Fortran, so I had to implement many things on my own.
 - Among the languages I knew, it was the fastest.
 - The "romance" of being the language that sent humans to the moon.
 
