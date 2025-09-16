@@ -1,0 +1,9 @@
+INTEGER*8::A(91)
+READ*,I
+A(1)=0
+A(2)=1
+DO L=3,I+1
+A(L)=A(L-1)+A(L-2)
+ENDDO
+PRINT'(I0)',A(I+1)
+END
