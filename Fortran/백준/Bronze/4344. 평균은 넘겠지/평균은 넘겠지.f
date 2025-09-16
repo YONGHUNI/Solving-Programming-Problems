@@ -1,0 +1,12 @@
+INTEGER::A(1000)
+READ*,N
+DO I=1,N
+READ*,M,(A(J),J=1,M)
+K=SUM(A(1:M))/M
+L=0
+DO J=1,M
+IF(A(J)>K)L=L+1
+ENDDO
+PRINT'(F6.3,A)',100.*L/M,'%'
+ENDDO
+END
