@@ -1,0 +1,3 @@
+READ*,I,J,K,L
+PRINT'(I0)',I*J+K*L
+END
