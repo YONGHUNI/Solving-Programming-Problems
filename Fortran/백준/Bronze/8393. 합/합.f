@@ -1,0 +1,7 @@
+READ*,I
+J=0
+DO L=1,I
+J=L+J
+ENDDO
+PRINT'(I0)',J
+END
