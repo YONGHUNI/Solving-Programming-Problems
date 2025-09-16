@@ -1,0 +1,4 @@
+INTEGER::A(5)
+READ*,A
+PRINT'(I0)',SUM(A)
+END
