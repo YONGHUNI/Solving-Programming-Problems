@@ -1,0 +1,4 @@
+REAL*8::I
+READ*,I,J
+PRINT*,I/J
+END
