@@ -1,0 +1,4 @@
+INTEGER(8)::I,J
+READ*,I,J
+PRINT'(I0)',ABS(I-J)
+END
