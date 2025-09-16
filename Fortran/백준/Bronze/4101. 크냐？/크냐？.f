@@ -1,0 +1,10 @@
+READ*,I,J
+DO WHILE(I/=0 .OR. J/=0)
+IF(I>J)THEN
+PRINT'(A)','Yes'
+ELSE
+PRINT'(A)','No'
+ENDIF
+READ*,I,J
+ENDDO
+END
