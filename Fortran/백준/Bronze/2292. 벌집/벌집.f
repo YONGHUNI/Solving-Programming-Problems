@@ -1,0 +1,12 @@
+READ*,M
+N=1
+I=0
+J=1
+DO
+N=6*I+N
+IF(M==1.OR.M<=N)EXIT
+I=J
+J=J+1
+ENDDO
+PRINT'(I0)',J
+END
