@@ -41,7 +41,6 @@ Users' levels are determined by the number and difficulty of problems they’ve 
 Your level is determined by:
 - **Number of problems solved**
 - **Difficulty of problems solved**
-- **Accuracy and consistency**
 
 ### 4. **Level Up Goals**
 To improve your level:
