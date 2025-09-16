@@ -1,0 +1,6 @@
+READ*,I,J
+K=J/100
+L=MOD(J,K*100)/10
+M=MOD(MOD(J,K*100),L*10)
+WRITE(*,'(I0)') I*M,I*L,I*K,I*J
+END
