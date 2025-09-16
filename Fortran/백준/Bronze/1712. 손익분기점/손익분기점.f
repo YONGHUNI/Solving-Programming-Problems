@@ -1,0 +1,8 @@
+READ*,I,J,K
+IF(J>=K)THEN
+PRINT'(I0)',-1 
+ELSE
+N=I/(K-J)
+PRINT'(I0)',N+1
+ENDIF
+END
