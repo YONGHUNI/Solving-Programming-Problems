@@ -1,0 +1,10 @@
+DO
+READ*,I,J
+IF(I==0.AND.J==0)EXIT
+K=MOD(I,J)
+L=MOD(J,I)
+IF(L==0)PRINT'(A)','factor'
+IF(K==0)PRINT'(A)','multiple'
+IF(L/=0.AND.K/=0)PRINT'(A)','neither'
+ENDDO
+END
