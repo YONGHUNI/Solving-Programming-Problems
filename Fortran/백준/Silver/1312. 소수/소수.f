@@ -1,0 +1,10 @@
+READ*,I,J,N
+K=0
+DO WHILE(N/=0)
+I=MOD(I,J)
+I=I*10
+K=I/J
+N=N-1
+ENDDO
+PRINT'(I0)',K
+END
