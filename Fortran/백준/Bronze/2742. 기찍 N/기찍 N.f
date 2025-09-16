@@ -1,0 +1,3 @@
+READ*,N
+PRINT'(I0)',(I,I=N,1,-1)
+END
