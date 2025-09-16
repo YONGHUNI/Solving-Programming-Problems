@@ -1,0 +1,3 @@
+READ*,I,J,K,L,M
+PRINT'(I0)',MOD(I**2+J**2+K**2+L**2+M**2,10)
+END
