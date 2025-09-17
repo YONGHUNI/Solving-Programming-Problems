@@ -1,7 +1,7 @@
 # Problem Solving-Baekjoon
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
-<a href="https://solved.ac/en/profile/dydgns0556"><img align="center" style="height:173px; width:350px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dydgns0556" /></a>&nbsp;&nbsp;
+<a href="https://solved.ac/profile/dydgns0556"><img align="center" style="height:173px; width:350px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dydgns0556" /></a>&nbsp;&nbsp;
 
 # Background
 This is a record of my problem-solving activities on **Baekjoon Online Judge**(It is basically a Korean version of LeetCode), which I have been doing as a hobby since March 22, 2022.
